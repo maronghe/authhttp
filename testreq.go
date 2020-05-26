@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-func main() {
+func main1() {
 
 	url := "http://localhost:8080/admin"
 	method := "GET"
